@@ -1,0 +1,33 @@
+
+#dev7link {
+    position:absolute;
+    top:0;
+    left:50px;
+
+    width:60px;
+    height:67px;
+    border:0;
+    display:block;
+    text-indent:-9999px;
+}
+
+.slider-wrapper { 
+	width: 60%; 
+	margin: 10px auto;
+}
+#slider .nivo-controlNav {
+	position:absolute;
+	bottom:-70px; /* Put the nav below the slider */
+}
+#slider .nivo-controlNav img {
+	display:inline; /* Unhide the thumbnails */
+	position:relative;
+	margin-right:10px;
+}
+
+/*====================*/
+/*=== Other Styles ===*/
+/*====================*/
+.clear {
+	clear:both;
+}
