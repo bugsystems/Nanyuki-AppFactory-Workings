@@ -1,2 +1,2 @@
 # NanyukiAppFactory
-For Nanyuki projects
+For my Nanyuki projects
